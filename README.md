@@ -9,7 +9,9 @@ Full Stack Web developer with over 8 years of experience in designing UI respons
 I am passionate and self-driven person with professional dynamism and commitment.
 I enhance my skills and abilities through training opportunities and interesting challenges.
 
-<code>I enjoy developing backend and frontend innovative digital project. 👨‍💻</code>
+```
+I enjoy developing backend and frontend innovative digital project. 👨‍💻
+```
 
 I am looking forward to new and exciting opportunities that offers meaningful work with true purpose!</code>
 
