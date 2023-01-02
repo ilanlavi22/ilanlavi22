@@ -1,4 +1,5 @@
-### Hi, I’m Ilan <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" align="center"> I'm a Web Developer and a Web Designer
+### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" align="center"> My name is Ilan
+#### Developer. FS. Web Designer
 
 Full Stack Web developer with over 8 years of experience in designing UI responsive and condensed Websites and developing Web applications, landing pages and digital publications, using varied modern technologies.
 
@@ -12,6 +13,8 @@ I enjoy developing backend and frontend innovative digital project.
 <b>I am looking forward to new and exciting opportunities that offers meaningful work with true purpose!</b>
 
 ### Socials
+
+🌍 I'm based in Berlin
 
 <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
