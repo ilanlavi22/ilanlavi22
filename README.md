@@ -1,4 +1,4 @@
-Hi, I’m @ilanlavi22 here on GitHub.
+### Hi, I’m Ilan <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" align="center"> I'm a Web Developer and a Web Designer
 
 Full Stack Web developer with over 8 years of experience in designing UI responsive and condensed Websites and developing Web applications, landing pages and digital publications, using varied modern technologies.
 
