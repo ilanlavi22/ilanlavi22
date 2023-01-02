@@ -13,8 +13,8 @@ I enhance my skills and abilities through training opportunities and interesting
 
 I am looking forward to new and exciting opportunities that offers meaningful work with true purpose!</code>
 
-##### 🏡 I'm based in Berlin, Germany
-##### <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" align="center" /> My Linkedin profile</a>
+#### 🏡 I'm based in Berlin, Germany
+#### <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" align="center" /> My Linkedin profile</a>
 
 #
 
