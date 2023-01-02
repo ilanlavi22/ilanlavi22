@@ -2,13 +2,15 @@
 
 Full Stack Web developer with over 8 years of experience in designing UI responsive and condensed Websites and developing Web applications, landing pages and digital publications, using varied modern technologies.
 
+
+
+
 I am passionate and self-driven person with professional dynamism and commitment.
 I enhance my skills and abilities through training opportunities and interesting challenges.
 I enjoy developing backend and frontend innovative digital project.
 
+<code>jffjfjf</code>
 <b>I am looking forward to new and exciting opportunities that offers meaningful work with true purpose!</b>
-
-How to reach me? ... Message me here on GitHub.
 
 ### Socials
 
@@ -19,19 +21,19 @@ How to reach me? ... Message me here on GitHub.
   <table border="0">
   <tr>
     <td valign="center" align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" alt="HTML5"><div><sub>HTML5</sub></div></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" alt="HTML5"><div><code>HTML5</code></div></a>
     </td>    
     <td valign="center" align="center">
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><div><sub>CSS3</sub></div></a>
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><div><code>CSS3</code></div></a>
    </td>
     <td valign="center" align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"><div><sub>JavaScript</sub></div></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"><div><code>JavaScript</code></div></a>
     </td>
      <td valign="center" align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"><div><sub>TypeScript</sub></div></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"><div><code>TypeScript</code></div></a>
     </td>
     <td valign="center" align="center">
-     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"><div><sub style='color:#000'>JQuery</sub></div></a>
+     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"><div><code>JQuery</code></div></a>
     </td>
   </tr>
   </table>   
