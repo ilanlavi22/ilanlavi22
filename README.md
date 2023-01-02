@@ -20,7 +20,7 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
 
 #
 
-#### Core Skills & Frontend
+### Core Skills & Frontend
   
   <table border="0">
   <tr>
@@ -70,7 +70,7 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
   </tr>
   </table>
   
-  #### Backend & Database
+### Backend & Database
   
   <table border="0">   
   <tr>
@@ -89,7 +89,7 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
   </tr>
   </table>
   
-  #### Software : UI Design & Web Design
+### Software : UI Design & Web Design
    <table border="0">   
   <tr border="0">
        <td valign="center" align="center">
@@ -109,7 +109,3 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
     </td>    
   </tr>  
 </table>
-
-
-
-  
