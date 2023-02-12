@@ -49,10 +49,7 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
     </td>    
     <td valign="center" align="center">
       <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"><div><code>NextJs</code></div></a>
-    </td>
-     <td valign="center" align="center">
-      <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"><div><code>NextJs</code></div></a>
-    </td>
+    </td>    
      <td valign="center" align="center">
       <a href="https://www.gatsbyjs.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" title="Gatsby"><div><code>Gatsby</code></div></a>
     </td>
