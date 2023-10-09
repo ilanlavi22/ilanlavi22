@@ -1,19 +1,13 @@
 ## Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" height="50" align="center"> My name is Ilan
 ### Developer. FSD. Web Designer
 
-Full Stack Web developer with over 8 years of experience in designing UI responsive and condensed Websites and developing Web applications, landing pages and digital publications, using varied modern technologies.
+Frontend Developer & Web Designer, specialized in React, Next.js, with over 8 years of experience in designing UI responsive Web applications, landing pages and digital publications.
 
+<b>Skilled in React for developing dynamic and engaging interfaces and Next.js for full-stack solutions, creating comprehensive web applications, including handling authentication, databases, and API routing.</b>
 
+I combine user centric UX/UI design principles with strong development skills to create intuitive web applications.
 
-
-I am passionate and self-driven person with professional dynamism and commitment.
-I enhance my skills and abilities through training opportunities and interesting challenges.
-
-```
-I enjoy developing backend and frontend innovative digital project. 👨‍💻
-```
-
-I am looking forward to new and exciting opportunities that offers meaningful work with true purpose!</code>
+I merge design and development, crafting top-notch, scalable web applications.
 
 #### 🏡 I'm based in Berlin, Germany
 #### <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" align="center" /> My Linkedin profile</a>
@@ -33,12 +27,6 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
     <td valign="center" align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"><div><code>JavaScript</code></div></a>
     </td>
-     <td valign="center" align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"><div><code>TypeScript</code></div></a>
-    </td>
-    <td valign="center" align="center">
-     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"><div><code>JQuery</code></div></a>
-    </td>
   </tr>
   </table>   
   
@@ -49,9 +37,6 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
     </td>    
     <td valign="center" align="center">
       <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"><div><code>NextJs</code></div></a>
-    </td>    
-     <td valign="center" align="center">
-      <a href="https://www.gatsbyjs.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" title="Gatsby"><div><code>Gatsby</code></div></a>
     </td>
     <td valign="center" align="center">
      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"><div><code>Sass</code></div></a>
@@ -94,13 +79,7 @@ I am looking forward to new and exciting opportunities that offers meaningful wo
   
 ### Software : UI Design & Web Design
    <table border="0">   
-  <tr border="0">
-       <td valign="center" align="center">
-     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"><div><code>Photoshop</code></div></a>
-    </td>
-    <td valign="center" align="center">
-     <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" title="Illustrator"><div><code>Illustrator</code></div></a>
-    </td>
+  <tr border="0">       
     <td valign="center" align="center">
      <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" title="XD"><div><code>XD</code></div></a>
     </td>
