@@ -11,7 +11,7 @@ I merge design and development, crafting top-notch, scalable web applications.
 
 #### 🏡 I'm based in Berlin, Germany
 
-#### <a href="https://ilanlavi.com/" "target="_blank">Ilan Lavi Website</a>
+#### <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" align="center" /> My Linkedin profile</a>
 
 #### <a href="https://www.linkedin.com/in/ilanlavi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" height="22" align="center" /> My Linkedin profile</a>
 
